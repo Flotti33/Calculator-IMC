@@ -1,0 +1,72 @@
+
+body{
+    background-color: rgb(162, 186, 231);
+    font-family: Arial;
+    font-size: 12pt;
+    text-align: center;
+    
+}
+header{
+    color: white;
+    
+}
+header h1{
+   
+    box-shadow: 4pt 4pt 12pt black;
+}
+section p {
+    background: blanchedalmond;
+}
+p#ptitle{
+    width: 360px;
+    margin: auto;
+    border-radius: 20pt;
+    padding: 5px;
+}
+p#dtbirth{
+    width: 200px;
+    margin: auto;
+    border-radius: 10pt;
+    padding: 5px;
+}
+p#sex{
+    width: 80px;
+    margin: auto;
+    border-radius: 10pt;
+    padding: 5px;
+}
+p#height{
+    width: 250px;
+    margin: auto;
+    border-radius: 10pt;
+    padding: 5px;
+}
+p#weight{
+    width: 250px;
+    margin: auto;
+    border-radius: 10pt;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input#dtbidth{
+    margin-top: 10px;
+}
+div#res{
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+section{
+    box-shadow: 2pt 2pt 5pt rgba(0, 0, 0, 0.527);
+    border: solid 2pt black;
+    background: rgb(208, 208, 247);
+    margin: auto;
+    width: 400px;
+    font-weight: bold;
+    
+}
+footer{
+    color: white;
+    font-style: italic;
+}
